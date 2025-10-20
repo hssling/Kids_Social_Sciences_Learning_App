@@ -26,15 +26,15 @@ export const topics = [
       },
       {
         title: 'National Geographic History',
-        content: 'Detailed documentaries and articles about ancient civilizations, explorers, and world events. Photography and storytelling excellence. Access: https://www.nationalgeographic.com/history. Quality: ***** Visual storytelling.'
+        content: 'Detailed documentaries and articles about ancient civilizations, explorers, and world events. Photography and storytelling excellence. Access: https://www.nationalgeographic.com/history Quality: ***** Visual storytelling.'
       },
       {
         title: 'Smithsonian Institution',
-        content: 'Free access to exhibits, articles, and videos about world cultures, history, and human civilization. Virtual museum tours. Access: https://www.si.edu. Quality: ***** World\'s largest museum collection.'
+        content: 'Free access to exhibits, articles, and videos about world cultures, history, and human civilization. Virtual museum tours. Access: https://www.si.edu Quality: ***** World\'s largest museum collection.'
       },
       {
         title: 'UNESCO World Heritage',
-        content: 'Educational videos and resources about world heritage sites and cultural preservation. Focus on humanity\'s shared heritage. Access: https://whc.unesco.org. Quality: ***** Global cultural education.'
+        content: 'Educational videos and resources about world heritage sites and cultural preservation. Focus on humanity\'s shared heritage. Access: https://whc.unesco.org Quality: ***** Global cultural education.'
       }
     ]
   },
